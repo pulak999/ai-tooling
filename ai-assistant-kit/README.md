@@ -70,6 +70,6 @@ Restart Cursor / Claude Code after syncing.
 - **Cursor skills:** `code-review-phased`, `design-doc-review-bottleneck`
 - **Cursor skills-cursor:** `create-rule`, `create-skill`, `create-subagent`, `migrate-to-skills`, `shell`, `update-cursor-settings` + `.cursor-managed-skills-manifest.json`
 - **Cursor global rules:** `codebase-quizzer.mdc`
-- **Claude skills:** `codebase-quizzer`, `implement-from-plan`, `plan-impact-analysis`, `phase-code-review.md`
+- **Claude skills:** `codebase-quizzer`, `format-latex`, `grill-me`, `implement-from-plan`, `plan-impact-analysis`, `phase-code-review.md`
 
 Update this list in the README when you add skills.
