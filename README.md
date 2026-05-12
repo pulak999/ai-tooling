@@ -1,6 +1,7 @@
 # Tooling
 
 - **`ai-assistant-kit/`** — Portable Cursor skills, Cursor managed skills, global Cursor rules, and Claude Code skills. See [`ai-assistant-kit/README.md`](ai-assistant-kit/README.md).
+- **`requirements/`** — Optional host dependencies for skills (e.g. Poppler and Python packages for **pdf-summarizer**). See [`requirements/README.md`](requirements/README.md).
 
 This directory is its own **git repository** (so you can clone/push it without the rest of `gitrepos`).
 

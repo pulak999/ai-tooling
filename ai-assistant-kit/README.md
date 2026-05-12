@@ -67,9 +67,11 @@ Restart Cursor / Claude Code after syncing.
 
 ## Contents snapshot (as of last import)
 
-- **Cursor skills:** `ai-ledger`, `code-review-phased`, `design-doc-review-bottleneck`
+- **Cursor skills:** `ai-ledger`, `code-review-phased`, `design-doc-review-bottleneck`, `pdf-summarizer`
 - **Cursor skills-cursor:** `create-rule`, `create-skill`, `create-subagent`, `migrate-to-skills`, `shell`, `update-cursor-settings` + `.cursor-managed-skills-manifest.json`
 - **Cursor global rules:** `codebase-quizzer.mdc`
-- **Claude skills:** `ai-ledger`, `codebase-quizzer`, `format-latex`, `grill-me`, `implement-from-plan`, `plan-impact-analysis`, `phase-code-review.md`
+- **Claude skills:** `ai-ledger`, `codebase-quizzer`, `format-latex`, `grill-me`, `implement-from-plan`, `plan-impact-analysis`, `pdf-summarizer`, `phase-code-review.md`
+
+**pdf-summarizer** host tools (Poppler, Python packages, helper scripts): [`../requirements/pdf-summarizer/README.md`](../requirements/pdf-summarizer/README.md).
 
 Update this list in the README when you add skills.
